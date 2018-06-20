@@ -4,7 +4,7 @@ x-collection-name: Google Task Queue
 x-complete: 1
 info:
   title: TaskQueue
-  description: accesses-a-google-app-engine-pull-task-queue-over-rest
+  description: accesses-a-google-app-engine-pull-task-queue-over-rest-
   contact:
     name: Google
     url: https://google.com

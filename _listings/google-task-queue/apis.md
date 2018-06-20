@@ -7,10 +7,10 @@ description: The Task Queue API lets applications perform work, called tasks, as
   worker services in your application.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hands-on-app-engine-11-638.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Task Queue
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-task-queue/master/_listings/google-task-queue/apis.md
 specificationVersion: "0.14"
 apis:
